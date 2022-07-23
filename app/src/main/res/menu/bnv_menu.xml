@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:menuCategory="secondary"
+        android:id="@+id/TVShowApiFragment"
+        android:icon="@drawable/ic_online_movie"
+        android:title="Online" />
+
+    <item android:menuCategory="secondary"
+        android:id="@+id/TVShowLocalFragment"
+        android:icon="@drawable/ic_local_movies"
+        android:title="Local" />
+
+</menu>
